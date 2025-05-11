@@ -23,9 +23,8 @@ from sklearn.metrics import classification_report
 from google.colab.patches import cv2_imshow
 import cv2
 
-"""Loading the dataset
-
-MNIST 0-9
+"""
+Loading the dataset MNIST 0-9
 """
 
 from tensorflow.keras.datasets import mnist
